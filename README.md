@@ -1,7 +1,21 @@
-# Simple example
+# SudoRoom Women And NonBinary Coding Night
 
-This is a simple example for people without a lot of experience in Python and matplotlib.
+This is the start of the series of cool talks we have on using AI in coding and everyday life.
+We'd also like to see how these tools might democratize programming for many people, but also might have the downside of turning jobs into pink collar work.
 
-Here we asked chatGPT to help us create a bar chart, and then I debugged it with some error messages.
+[https://sudoroom.org/upcoming-nonbinary-night-using-ai-tools-social-impacts-7-31/](https://sudoroom.org/upcoming-nonbinary-night-using-ai-tools-social-impacts-7-31/)
 
-Then once the first example worked I started talking to the chatGpt to learn more about how to do everything and what each line meant. I graduated to a more complciated example.
+
+## gender cap in california
+
+###  overview
+
+In this example I bridge my knowledge as someone out of practice with python and completely unfamiliar with matlib. I'm seeking simple datasets for practice.
+
+
+# hella simple data sets
+
+The key is to start super simple and move onwards
+
+* [https://qwiexplorer.ces.census.gov/#x=0&g=0](https://qwiexplorer.ces.census.gov/#x=0&g=0)
+
