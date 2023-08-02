@@ -6,7 +6,7 @@ We'd also like to see how these tools might democratize programming for many peo
 [https://sudoroom.org/upcoming-nonbinary-night-using-ai-tools-social-impacts-7-31/](https://sudoroom.org/upcoming-nonbinary-night-using-ai-tools-social-impacts-7-31/)
 
 
-## gender cap in california
+## gender wage gap in california
 
 ###  overview
 
